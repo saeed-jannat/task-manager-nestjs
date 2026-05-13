@@ -106,7 +106,7 @@ Redis is used for:
 🛠️ Installation
 Clone Repository
 
-git clone https://github.com/your-username/task-manager-api.git
+git clone https://github.com/saeed-jannat/task-manager-api.git
 
 Enter Project
 
